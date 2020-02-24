@@ -366,7 +366,7 @@ public class SFDC_Testcases extends ReusableMethods{
 			logger.log(LogStatus.PASS, "Email settings have been successfully saved");
 		else
 			logger.log(LogStatus.FAIL, "Email settings have been successfully saved");
-		Thread.sleep(2000);
+		Thread.sleep(4000);
 	
 		/*Calendar & Remainders*/
 		
